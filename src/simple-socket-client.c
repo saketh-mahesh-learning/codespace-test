@@ -56,5 +56,5 @@ int main(int argc, char *argv[]) {
     // Free the address information structure
     freeaddrinfo(result);
 
-    printf("Connected to the server");
+    printf("Connected to the server. I am running on Codespace!!!\n");
 }
